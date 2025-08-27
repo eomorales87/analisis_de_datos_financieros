@@ -21,9 +21,9 @@ proyecto/
 │   └── reports/          # Reportes en formato markdown
 │
 ├── tests/
-│   ├── test_extractor.py
-│   ├── test_processor.py
-│   └── test_visualizer.py
+│   ├── test_extractor.py #pruebas para extracción de datos
+│   ├── test_processor.py #pruebas para procesamiento de datos
+│   └── test_visualizer.py#pruebas para generación de visualizaciones
 ```
 
 ## 🚀 Instalación
