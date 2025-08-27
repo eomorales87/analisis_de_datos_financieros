@@ -19,6 +19,11 @@ proyecto/
 ├── results/
 │   ├── plots/            # Gráficas generadas
 │   └── reports/          # Reportes en formato markdown
+│
+├── tests/
+│   ├── test_extractor.py
+│   ├── test_processor.py
+│   └── test_visualizer.py
 ```
 
 ## 🚀 Instalación
